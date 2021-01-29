@@ -4,10 +4,10 @@
 import PackageDescription
 
 let package = Package(
-    name: "Reachability",
+    name: "Reachability.swift",
     products: [
         .library(
-            name: "Reachability",
+            name: "Reachability.swift",
             targets: ["Reachability"]),
     ],
     targets: [
